@@ -81,11 +81,9 @@ Devido às políticas de segurança recentes do Linux (PEP 668), recomendamos o 
   <sub style="font-size: 16px;">Desenvolvido por <strong>Geovane</strong></sub>
   <br /><br />
 
-  <a href="https://www.linkedin.com/in/geovanesaraujo/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp;
-  <a href=" https://geovanearaujo.dev.br/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio">
-  </a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovanesaraujo/)
+&nbsp;
+&nbsp;
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://geovanearaujo.dev.br/)
+
 </div>

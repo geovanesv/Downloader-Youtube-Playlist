@@ -42,6 +42,10 @@ Devido às políticas de segurança recentes do Linux (PEP 668), recomendamos o 
    pip install -r requirements.txt
    ```
 
+   ```
+   pip install -U yt-dlp
+   ```
+
 4. **Execute o programa:**
    ```bash
    python playlistdownloader.py
